@@ -1,2 +1,2 @@
-# mongodb
-A repo for Mongo DB projects.
+# databases
+A repo for databases projects.
